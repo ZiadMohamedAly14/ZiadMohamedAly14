@@ -9,4 +9,4 @@ React · Next.js · TypeScript · JavaScript · Node.js · MongoDB · Mongoose �
 Backend fundamentals and Node.js
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/ziad-mhd)
+[LinkedIn](https://www.linkedin.com/in/ziad-mhd) · [Email](iziadmohamedaly14@gmail.com)
