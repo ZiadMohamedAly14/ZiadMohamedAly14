@@ -49,7 +49,7 @@ Battal is an app that helps people quit smoking.
 
 </td>
 <td width="200" align="center" valign="middle">
-  <img src="assets/work/battal.jpg" width="180" alt="Battal: the welcome screen of the quit-smoking program" />
+  <img src="assets/work/battal.png" width="180" alt="Battal: the welcome screen of the quit-smoking program" />
 </td>
 </tr>
 </table>
